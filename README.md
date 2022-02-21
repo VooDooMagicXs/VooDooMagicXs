@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @VooDooMagicXs
 - 👀 I’m interested in learning programming
-- 🌱 I’m currently learning с++
-- 💞️ I’m looking to collaborate on ...(idk)
+- 🌱 I’m currently learning с++/c#
 - 📫 How to reach me https://vk.com/voodoomagic8
 
 <!---
